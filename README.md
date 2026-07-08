@@ -50,3 +50,8 @@ Protected routes require a valid access token.
 Sensitive configuration is stored using environment variables.
 Rate limiting helps prevent brute-force attacks.
 Centralized error handling improves API consistency.
+
+
+Author:
+Shashank Awasthi:
+Backend Developer | Node.js | Express.js | MongoDB
